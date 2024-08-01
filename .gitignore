@@ -1,0 +1,10 @@
+hat/
+.vscode/
+downloaded_models/
+fairseq.egg-info/
+checkpoints/
+build/
+__pycache__/
+wget-log
+dist/
+data/
